@@ -6,13 +6,20 @@
         "location"
     ],
     "companyName": "rmccoy777@gmail.com",
-    "longName": "gmt_explorer",
+    "longName": "GMT Explorer",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "images/gmt_aplite_menu.png",
+                "menuIcon": true,
+                "name": "icon_menu",
+                "type": "png"
+            }
+        ]
     },
     "sdkVersion": "3",
-    "shortName": "gmt_explorer",
+    "shortName": "GMT Explorer",
     "targetPlatforms": [
         "aplite",
         "basalt"
