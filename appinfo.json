@@ -1,7 +1,8 @@
 {
-    "appKeys": {
-        "dummy": 0
-    },
+  "appKeys": {
+    "timezoneOffset": 42,
+  },
+ 
     "capabilities": [
         "location"
     ],
