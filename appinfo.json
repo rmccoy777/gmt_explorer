@@ -1,8 +1,9 @@
 {
-    "appKeys": {},
+    "appKeys": {
+        "dummy": 0
+    },
     "capabilities": [
-        "location",
-        "configurable"
+        "location"
     ],
     "companyName": "rmccoy777@gmail.com",
     "longName": "gmt_explorer",
