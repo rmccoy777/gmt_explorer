@@ -1,6 +1,7 @@
 {
   "appKeys": {
     "timezoneOffset": 42,
+    "stringsize": 20,
   },
  
     "capabilities": [
